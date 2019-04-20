@@ -6,6 +6,10 @@ All notable changes to this project will be documented in this file. See [standa
 
 
 
+# 0.1.0 (2019-04-20)
+
+
+
 <a name="1.7.1"></a>
 
 ## [1.7.1](https://github.com/implydata/imply-pivot/compare/v1.7.0...v1.7.1) (2019-04-15)
